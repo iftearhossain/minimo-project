@@ -1,0 +1,8 @@
+note---
+	font-family: 'Playfair Display', serif;
+	font-family: 'Ubuntu', sans-serif;
+
+
+	color--
+		#000000
+		#626262
